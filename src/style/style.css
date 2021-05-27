@@ -1,0 +1,33 @@
+.linkColor {
+    font-weight: bold;
+    color:lightyellow;
+  }
+
+.data {
+  color: maroon;
+  font-size: 200%;
+  font-weight: bold;
+  background-color: rgb(247, 231, 236);
+}
+
+.jumbotron {
+  background-color: darkslategrey;
+  color: aquamarine;
+  padding: 80px 0;
+  text-align: center;
+}
+
+.link-size{
+  font-size: 200%;
+}
+
+.header{
+  font-size: 150%;
+  color:darkgreen;
+  border-style: groove;
+  border-width: 5px;
+  border-radius: 10px;
+  background-color: darkseagreen;
+}
+
+
